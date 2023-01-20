@@ -6,7 +6,7 @@ A repository for personal projects aside from main stream school projects.
 * Make a folder of your own project.
 * Add whatever file you want to in that folder.
 * Basically that folder is yours to handle.
-* At last you must add a ReadMe file or atleast add a description.
+* At last you must add a README.md file or atleast add a description.
 * Do as the content warning part says.
 
 ## CONTENT WARNING ⚠️
